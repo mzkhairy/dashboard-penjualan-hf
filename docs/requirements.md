@@ -38,7 +38,7 @@
 - [X] Integrasi `/health` dan `/metadata` (simpan di global state/composables).
 - [X] Buat komponen `BasicFilter` (Search, Category, Gender).
 - [X] Buat `SummaryCards` integrasi dengan `/summary`.
-- [ ] Buat `SalesTable` dengan pagination & sorting dasar.
-- [ ] Tambahkan `AdvancedFilterSheet` pada halaman Sales.
+- [X] Buat `SalesTable` dengan pagination & sorting dasar.
+- [ ] Tambahkan `AdvancedFilterModal` pada halaman Sales.
 - [ ] Buat `TransactionDetailDialog` integrasi dengan `/sales/{transaction_id}`.
 - [ ] Finalisasi styling & bug fixing.
