@@ -33,11 +33,11 @@
 - UI responsif (minimal dapat digunakan di resolusi tablet/desktop).
 
 ## 5. Tasks Tracker
-- [ ] Setup Vue 3 router & views (Dashboard, Sales).
-- [ ] Setup layout dasar (Sidebar + Header + HealthBadge).
-- [ ] Integrasi `/health` dan `/metadata` (simpan di global state/composables).
-- [ ] Buat komponen `BasicFilter` (Search, Category, Gender).
-- [ ] Buat `SummaryCards` integrasi dengan `/summary`.
+- [X] Setup Vue 3 router & views (Dashboard, Sales).
+- [X] Setup layout dasar (Sidebar + Header + HealthBadge).
+- [X] Integrasi `/health` dan `/metadata` (simpan di global state/composables).
+- [X] Buat komponen `BasicFilter` (Search, Category, Gender).
+- [X] Buat `SummaryCards` integrasi dengan `/summary`.
 - [ ] Buat `SalesTable` dengan pagination & sorting dasar.
 - [ ] Tambahkan `AdvancedFilterSheet` pada halaman Sales.
 - [ ] Buat `TransactionDetailDialog` integrasi dengan `/sales/{transaction_id}`.
