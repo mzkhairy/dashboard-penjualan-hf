@@ -28,6 +28,7 @@
 │   ├── lib/             # Fungsi utilitas global (utils.ts bawaan Shadcn)
 │   ├── router/          # Konfigurasi rute halaman Vue Router
 │   ├── services/        # Client API (Konfigurasi Axios/Fetch, Base URL, Interceptor)
+│   ├── types/           # Kontainer definisi tipe data TypeScript (api.ts kontrak API)
 │   ├── views/           # Halaman utama (Dashboard.vue, SalesExplorer.vue)
 │   ├── App.vue          # Root component utama aplikasi
 │   └── main.ts          # Entry point aplikasi Vue
